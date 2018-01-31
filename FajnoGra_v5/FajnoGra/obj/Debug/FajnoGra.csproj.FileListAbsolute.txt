@@ -1,0 +1,15 @@
+C:\Users\Alita\source\repos\FajnoGra\FajnoGra\bin\Debug\FajnoGra.exe.config
+C:\Users\Alita\source\repos\FajnoGra\FajnoGra\bin\Debug\FajnoGra.exe
+C:\Users\Alita\source\repos\FajnoGra\FajnoGra\bin\Debug\FajnoGra.pdb
+C:\Users\Alita\source\repos\FajnoGra\FajnoGra\obj\Debug\FajnoGra.csprojResolveAssemblyReference.cache
+C:\Users\Alita\source\repos\FajnoGra\FajnoGra\obj\Debug\MainWindow.g.cs
+C:\Users\Alita\source\repos\FajnoGra\FajnoGra\obj\Debug\App.g.cs
+C:\Users\Alita\source\repos\FajnoGra\FajnoGra\obj\Debug\FajnoGra_MarkupCompile.cache
+C:\Users\Alita\source\repos\FajnoGra\FajnoGra\obj\Debug\FajnoGra_MarkupCompile.lref
+C:\Users\Alita\source\repos\FajnoGra\FajnoGra\obj\Debug\MainWindow.baml
+C:\Users\Alita\source\repos\FajnoGra\FajnoGra\obj\Debug\FajnoGra.g.resources
+C:\Users\Alita\source\repos\FajnoGra\FajnoGra\obj\Debug\FajnoGra.Properties.Resources.resources
+C:\Users\Alita\source\repos\FajnoGra\FajnoGra\obj\Debug\FajnoGra.csproj.GenerateResource.Cache
+C:\Users\Alita\source\repos\FajnoGra\FajnoGra\obj\Debug\FajnoGra.csproj.CoreCompileInputs.cache
+C:\Users\Alita\source\repos\FajnoGra\FajnoGra\obj\Debug\FajnoGra.exe
+C:\Users\Alita\source\repos\FajnoGra\FajnoGra\obj\Debug\FajnoGra.pdb
