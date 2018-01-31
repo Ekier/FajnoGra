@@ -1,0 +1,2 @@
+# FajnoGra
+Prosta gra strategiczna
